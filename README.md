@@ -39,11 +39,11 @@ outputs/ → Images and ML results
 
 ### 🔹 Research Analysis Dashboard
 
-![Research](outputs/Dashboard_Research Analysis.png)
+![Research Analysis](outputs/Dashboard_Research Analysis.png)
 
 ### 🔹 Machine Learning Dashboard
 
-![ML](outputs/dashboard_ML Insights.png)
+![MLInsights](outputs/Dashboard_ML Insights.png)
 
 ---
 
