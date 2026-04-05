@@ -81,6 +81,8 @@ outputs/ → Images and ML results
 - Use advanced models like XGBoost tuning
 - Deploy dashboard using Power BI Service
 
+--- 
+
 ## 🔗 Project Links
 
 * 📊 Dashboard File: Available in `dashboard/` folder
