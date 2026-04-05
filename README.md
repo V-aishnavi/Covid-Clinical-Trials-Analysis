@@ -33,7 +33,17 @@ outputs/ → Images and ML results
 
 ## 📊 Dashboard Preview
 
-![Dashboard](outputs/dashboard.png)
+### 🔹 Overview Dashboard
+
+![Overview](outputs/Dashboard_Overview.png)
+
+### 🔹 Research Analysis Dashboard
+
+![Research](outputs/Dashboard_Research Analysis.png)
+
+### 🔹 Machine Learning Dashboard
+
+![ML](outputs/dashboard_ML Insights.png)
 
 ---
 
