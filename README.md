@@ -12,6 +12,11 @@
 This project analyzes global COVID-19 clinical trials data to uncover research trends, study patterns, and key insights.
 It also applies machine learning models to predict enrollment and study success.
 
+--- 
+
+## Business Problem:
+How can we analyze global clinical trials to understand research trends and predict study outcomes?
+
 ---
 
 ## 🎯 Objectives
@@ -71,6 +76,10 @@ outputs/ → Images and ML results
 * Machine learning models show limited predictive power due to data constraints
 
 ---
+## Future Scope:
+- Add more features for better prediction
+- Use advanced models like XGBoost tuning
+- Deploy dashboard using Power BI Service
 
 ## 🔗 Project Links
 
